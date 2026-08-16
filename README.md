@@ -91,7 +91,7 @@
 </a>
 &nbsp;
 <a href="https://github.com/B00H0O/cloudflare-solver">
-  <img src="https://img.shields.io/badge/cloudflare--solver-Turnstile_%2B_IUAM_via_raw_CDP-7A0812?style=for-the-badge&logo=cloudflare&logoColor=FFFFFF&labelColor=000000" alt="cloudflare-solver"/>
+  <img src="https://img.shields.io/badge/cloudflare--solver-Turnstile_%2B_IUAM_solver-7A0812?style=for-the-badge&logo=cloudflare&logoColor=FFFFFF&labelColor=000000" alt="cloudflare-solver"/>
 </a>
 
 </div>
