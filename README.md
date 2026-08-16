@@ -29,8 +29,8 @@
 </h2>
 
 <p align="center">
-  Mostly self-taught, focused on backend engineering and automated network extraction, though reverse engineering and web security are where I spend most of my time.
-If something is obfuscated, protected, or locked down, I want to know exactly how it works, then rebuild it myself.
+  Mostly self-taught, focused on backend engineering and automated network extraction, though reverse engineering and web security are where I spend most of my time.<br/>
+  If something is obfuscated, protected, or locked down, I want to know exactly how it works, then rebuild it myself.
 </p>
 
 <br/>
@@ -69,12 +69,12 @@ If something is obfuscated, protected, or locked down, I want to know exactly ho
 
 <div align="center">
 
-<img alt="Streak" src="https://streak-stats.demolab.com?user=B00H0O&theme=dark&hide_border=true&background=0A0A0A&stroke=FF2A3A&ring=FF2A3A&fire=FF2A3A&currStreakLabel=FF2A3A&currStreakNum=F5F5F5&sideLabels=F5F5F5&sideNums=F5F5F5&dates=8A0C16"/>
-
-<br/>
-<br/>
-
 <img alt="Metrics" src="https://raw.githubusercontent.com/B00H0O/B00H0O/output/metrics.svg"/>
+
+<br/>
+<br/>
+
+<img alt="Streak" src="https://streak-stats.demolab.com?user=B00H0O&theme=dark&hide_border=true&background=0A0A0A&stroke=FF2A3A&ring=FF2A3A&fire=FF2A3A&currStreakLabel=FF2A3A&currStreakNum=F5F5F5&sideLabels=F5F5F5&sideNums=F5F5F5&dates=8A0C16"/>
 
 </div>
 
@@ -86,12 +86,12 @@ If something is obfuscated, protected, or locked down, I want to know exactly ho
 
 <div align="center">
 
-<a href="https://github.com/B00H0O">
-  <img src="https://img.shields.io/badge/Anti--bot_Solvers_%26_Emulators-7A0812?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000" alt="solvers"/>
+<a href="https://github.com/B00H0O/kasada-vm">
+  <img src="https://img.shields.io/badge/kasada--vm-Kasada_challenge_solver-7A0812?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000" alt="kasada-vm"/>
 </a>
 &nbsp;
-<a href="https://github.com/B00H0O">
-  <img src="https://img.shields.io/badge/Web_Security_%26_Research-7A0812?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000" alt="research"/>
+<a href="https://github.com/B00H0O/cloudflare-solver">
+  <img src="https://img.shields.io/badge/cloudflare--solver-Cloudflare_challenge_solver-7A0812?style=for-the-badge&logo=cloudflare&logoColor=FFFFFF&labelColor=000000" alt="cloudflare-solver"/>
 </a>
 
 </div>
