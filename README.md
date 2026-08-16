@@ -29,8 +29,8 @@
 </h2>
 
 <p align="center">
-  Hi, I'm B00H0. I'm really into reverse engineering and web security, and I spend most of my time figuring out how anti-bot systems work and building my own solvers from scratch.<br/>
-  Always digging into something new and learning as I go.
+  Mostly self-taught, focused on backend engineering and automated network extraction, though reverse engineering and web security are where I spend most of my time.
+If something is obfuscated, protected, or locked down, I want to know exactly how it works, then rebuild it myself.
 </p>
 
 <br/>
